@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "396013347379",
+    "project_id": "dtc-app-ee19b",
+    "storage_bucket": "dtc-app-ee19b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396013347379:android:300984a3d7178f449e3946",
+        "android_client_info": {
+          "package_name": "com.example.dtc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmJ-ErcIMJgdMJMtkup9Av6SblI_wttvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
